@@ -23,7 +23,7 @@ markdown: kramdown
 # github.com/untra/polyglot
 languages:
   - en
-  - es
+  - fr
 default_lang: en
 exclude_from_localization:
   - css
