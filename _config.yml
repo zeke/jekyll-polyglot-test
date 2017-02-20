@@ -19,3 +19,12 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+# github.com/untra/polyglot
+languages:
+  - en
+  - es
+default_lang: en
+exclude_from_localization:
+  - css
+parallel_localization: true
